@@ -6,35 +6,60 @@
 
 ---
 
-### 🚀 What I’m Working On
+### 🚀 What I'm Working On
 - 🎶 Building interactive web3 experiences for **CODY Token**
+- 🌐 Open-sourced the [codytoken-public](https://github.com/codycordova/codytoken-public) reference app (Next.js + Stellar mainnet)
 - 🧠 Learning full-stack development (Next.js, Rust, and Stellar SDK)
 - 💻 Developing real-time swap + price apps for the Stellar Network
-- 🕹 Creating music-based web games like **Kitty City** and other CODYverse projects
+- 🕹️ Creating music-based web games like **Kitty City** and other CODYverse projects
 
 ---
 
 ### 🌐 Find Me Around the Internet
-🌎 [codytoken.com](https://codytoken.com)  
-🎵 [SoundCloud](https://soundcloud.com/codycordova)  
-🐦 [X (Twitter)](https://x.com/realcodycordova)  
-📸 [Instagram](https://instagram.com/realcodycordova)
+
+[![Website](https://img.shields.io/badge/codytoken.com-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://codytoken.com)
+[![SoundCloud](https://img.shields.io/badge/SoundCloud-ff5500?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/codycordova)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/realcodycordova)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/realcodycordova)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codycordova)
 
 ---
 
 ### 💫 Featured Repositories
-[![CODY Token](https://github-readme-stats.vercel.app/api/pin/?username=codycordova&repo=codytoken&theme=radical)](https://github.com/codycordova/codytoken)
-[![Music App](https://github-readme-stats.vercel.app/api/pin/?username=codycordova&repo=cody-music-app&theme=radical)](https://github.com/codycordova/cody-music-app)
 
----
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-### 📊 My GitHub Stats
-![Cody's GitHub stats](https://github-readme-stats.vercel.app/api?username=codycordova&show_icons=true&theme=radical)
+**[codytoken-public](https://github.com/codycordova/codytoken-public)**  
+Reference Next.js 16 app for CODY Token on Stellar — Freighter wallet, trustline setup, and XLM → CODY swap.
+
+<br>
+
+![Stars](https://img.shields.io/github/stars/codycordova/codytoken-public?style=flat-square&color=ff64d6)
+![Language](https://img.shields.io/github/languages/top/codycordova/codytoken-public?style=flat-square&color=ffd768)
+![License](https://img.shields.io/github/license/codycordova/codytoken-public?style=flat-square&color=f7db8e)
+
+    </td>
+    <td width="50%" valign="top">
+
+**[cody-music-app](https://github.com/codycordova/cody-music-app)**  
+Modern music player with audio visualization — Next.js + WaveSurfer.js.
+
+<br>
+
+![Stars](https://img.shields.io/github/stars/codycordova/cody-music-app?style=flat-square&color=ff64d6)
+![Language](https://img.shields.io/github/languages/top/codycordova/cody-music-app?style=flat-square&color=ffd768)
+![License](https://img.shields.io/github/license/codycordova/cody-music-app?style=flat-square&color=f7db8e)
+
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🧙‍♂️ Fun Fact
-I’ve performed classical violin 🎻, mastered Wushu 🥋, and now I code to create **frequencies that heal and uplift** ✨  
+I've performed classical violin 🎻, mastered Wushu 🥋, and now I code to create **frequencies that heal and uplift** ✨  
 
 ---
 
