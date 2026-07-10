@@ -27,34 +27,19 @@
 
 ### 💫 Featured Repositories
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-**[codytoken-public](https://github.com/codycordova/codytoken-public)**  
+#### [codytoken-public](https://github.com/codycordova/codytoken-public)
 Reference Next.js 16 app for CODY Token on Stellar — Freighter wallet, trustline setup, and XLM → CODY swap.
-
-<br>
 
 ![Stars](https://img.shields.io/github/stars/codycordova/codytoken-public?style=flat-square&color=ff64d6)
 ![Language](https://img.shields.io/github/languages/top/codycordova/codytoken-public?style=flat-square&color=ffd768)
 ![License](https://img.shields.io/github/license/codycordova/codytoken-public?style=flat-square&color=f7db8e)
 
-    </td>
-    <td width="50%" valign="top">
-
-**[cody-music-app](https://github.com/codycordova/cody-music-app)**  
+#### [cody-music-app](https://github.com/codycordova/cody-music-app)
 Modern music player with audio visualization — Next.js + WaveSurfer.js.
-
-<br>
 
 ![Stars](https://img.shields.io/github/stars/codycordova/cody-music-app?style=flat-square&color=ff64d6)
 ![Language](https://img.shields.io/github/languages/top/codycordova/cody-music-app?style=flat-square&color=ffd768)
 ![License](https://img.shields.io/github/license/codycordova/cody-music-app?style=flat-square&color=f7db8e)
-
-    </td>
-  </tr>
-</table>
 
 ---
 
